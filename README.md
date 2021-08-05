@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psarathi
 - 👀 I’m interested in full stack development, architecture, building engaging products
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
